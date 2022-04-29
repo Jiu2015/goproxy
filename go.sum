@@ -94,6 +94,8 @@ github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/
 github.com/google/renameio v0.1.0/go.mod h1:KWCgfxg9yswjAJkECMjeO8J8rahYeXnNhOm40UhjYkI=
 github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
+github.com/goproxyio/goproxy/v2 v2.0.7 h1:Ndmh6mgEPYpY6jKRvZ9j5bTAw5+iRbc9SAgz/91mINU=
+github.com/goproxyio/goproxy/v2 v2.0.7/go.mod h1:7La4mKuZVFV0hQDcDt+9Dj3f0F9hIgU+WWiqh/qNoBU=
 github.com/goproxyio/windows v0.0.0-20191126033816-f4a809841617 h1:geXWJzWrEzC5S4MjTi8N+fhzuSYgdf4FwcYb4OI/YGU=
 github.com/goproxyio/windows v0.0.0-20191126033816-f4a809841617/go.mod h1:dlHwZrQaHMQLGIISiDGKq3wKQhZDsRcZ2+EN4k0uGTc=
 github.com/gorilla/context v1.1.1/go.mod h1:kBGZzfjB9CEq2AlWe17Uuf7NDRt0dE0s8S51q0aT7Yg=
